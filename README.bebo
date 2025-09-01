@@ -1,0 +1,35 @@
+# -B-E-B-O-
+&lt;!DOCTYPE html> &lt;html>   &lt;head>     &lt;title>تعليمية&lt;/title>     &lt;style>       body { تم تهكير حسابك*        display: flex;         justify-content: center;         align-items: center;         height: 100vh;         background-color: #f2f2f2;         font-family: Arial, sans-serif;      BEBO😎 }       .message ><!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>صفحة الرابط</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+        }
+
+        a {
+            padding: 15px 30px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+
+        a:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <a href="bebo.html" target="_blank">اضغط هنا لتشوف B-E-B-O 😎</a>
+</body>
+</html>
